@@ -1,0 +1,19 @@
+body{
+	text-align:center;
+	margin-left:300px;
+	margin-right:300px;
+}
+.sherbimi{
+	background-color:red;
+	
+}
+.oraret {
+	background-color:#c0deed;
+}
+#agency{
+	width:10%;
+	border:1px solid #CCC;
+	background:#FFF;
+	margin:0 0 5px;
+	padding:10px;
+}
